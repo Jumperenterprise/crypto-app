@@ -1,3 +1,14 @@
+## Rick & Morty
+
+![alt text](https://i.ibb.co/YL06PQd/Captura-de-pantalla-de-2021-10-13-16-12-43.png)
+
+
+This project was created with React Js.
+
+I used coingecko as API (https://www.coingecko.com/es/api)
+
+
+## Developped with 🛠️
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Live Project
+(https://crypto-coin-project.herokuapp.com/)
+
+
+## Authors ✒️
+
+* **Andrew Alfaro** - *Desarrollador JavaScript* (andrew.jumper.ent@gmail.com)
+
+## thanks for watching my project🎁
+
+* Tell others about this project 📢.
+* Buy a beer 🍺 or a coffee ☕. 
+* Thank you for viewing my project 🤓.
